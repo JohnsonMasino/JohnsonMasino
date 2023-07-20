@@ -1,13 +1,16 @@
-### Hi there 👋
+### Hi there 👋   ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/9a02b62d-0074-46a5-879d-fbb80ecd9fa0)
+### Johnson Obinna Ugwuanyi (Masino) Here.
 
-JohnsonMasino Here.
-
-- 🔭 I’m currently working on ... Python Django Project
-- 🌱 I’m currently learning ... Django and Flask frameworks for python
-- 👯 I’m looking to collaborate on ... Opensources
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... C || Python || Linux || SQL || HTML/CSS || JavaScript || Shell || DevOps
-- 📫 How to reach me: ...![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/669de114-a9a8-4110-b076-ed48fdbcc5ca)
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a fullstack software engineer working mainly with Python and it's frameworks.
+- 🔭 I’m currently working on: Air BNB Clone project and a Python Django Project
+- 🌱 I’m currently learning: Artificial Intelligence and Machine Learning![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/c04254f3-be88-42fe-943c-208bf5c046e7)
+  
+- 👯 I’m looking to collaborate on: Opensources and Projects/Startups
+- 💬 Ask me about ... C || Python(Django, Flask) || JavaScript || React || Linux || MySQL || HTML/CSS || Git/GitHub || Puppet || Shell || DevOps
+- 📫 How to reach me:
+- ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/cf2b0525-b1a6-4f1d-a6c8-03802ced9e1d)  - johnsonmasino@gmail.com
+- ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/c148e3cd-d6a2-4db6-8bd7-b292d07ec944)  - +234 903-620-6457
+- 😄 Pronouns:
+- Masino, Nigga, Yoo, Dawg
+- ⚡ Fun fact:
+-  Swimming, Fishing, Rapping, Acrobatic exercise(Summersaulting), etc
