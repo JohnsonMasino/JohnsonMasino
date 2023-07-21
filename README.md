@@ -1,5 +1,6 @@
 ### Hi there 👋   ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/9a02b62d-0074-46a5-879d-fbb80ecd9fa0)
 ### Johnson Obinna Ugwuanyi (Masino) Here.
+### TALKS ABOUT: "PROBLEM SOLVING"
 
 I am a fullstack software engineer working mainly with Python and it's frameworks.
 - 🔭 I’m currently working on: Air BNB Clone project and a Python Django Project.
