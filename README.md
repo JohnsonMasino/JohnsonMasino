@@ -10,6 +10,6 @@
 - - 😄 Pronouns: Masino, Nigga, Yoo, Dawg
 - ⚡ Fun fact: Swimming, Fishing, Rapping, Acrobatic exercise(Summersaulting), etc
 - 📫 How to reach me:
-![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/cf2b0525-b1a6-4f1d-a6c8-03802ced9e1d)johnsonmasino@gmail.com ![image (https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/c148e3cd-d6a2-4db6-8bd7-b292d07ec944)+234 903-620-6457
+![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/cf2b0525-b1a6-4f1d-a6c8-03802ced9e1d)johnsonmasino@gmail.com ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/c148e3cd-d6a2-4db6-8bd7-b292d07ec944)+234 903-620-6457
 ### TWT: https://twitter.com/masino_oficial
 ### LinkIn: https://www.linkedin.com/in/masino100/
