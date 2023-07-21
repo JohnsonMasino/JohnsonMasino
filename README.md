@@ -9,7 +9,7 @@
 - 💬 My-Tools: C || Python(Django, Flask) || JavaScript || React || Linux || MySQL || HTML/CSS || Git/GitHub || Puppet || Shell || DevOps.
 - 📫 How to reach me:
                                                                                                                                       ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/cf2b0525-b1a6-4f1d-a6c8-03802ced9e1d)johnsonmasino@gmail.com ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/c148e3cd-d6a2-4db6-8bd7-b292d07ec944)+234 903-620-6457
-  ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/8c6daade-ac86-434b-bff3-8f2cfa9e6dde) https://twitter.com/masino_oficial
+ ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/cceedeaa-6881-4112-b084-e7449a9a30ca)https://twitter.com/masino_oficial
 
 - 😄 Pronouns: Masino, Nigga, Yoo, Dawg
 - ⚡ Fun fact: Swimming, Fishing, Rapping, Acrobatic exercise(Summersaulting), etc
