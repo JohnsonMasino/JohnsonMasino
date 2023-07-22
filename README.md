@@ -3,7 +3,7 @@
 ### ABOUT:  A fullstack software engineer working mainly with Python and it's frameworks
 ### TALKS ABOUT: "PROBLEM SOLVING"
 - 🔭 I’m currently working on: Air BNB Clone project and a Python Django Project
-- 🌱 Interested In: Artificial Intelligence and Machine Learning
+- 🌱 Interested In: AI/ML
   
 - 👯 I’m looking to collaborate on: Opensources and Projects/Startups
 - 💬 My-Tools: C || Python(Django, Flask) || JavaScript || React || Linux || MySQL || HTML/CSS || Git/GitHub || Puppet || Shell || DevOps.
