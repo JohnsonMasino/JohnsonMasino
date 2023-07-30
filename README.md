@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: Air BNB Clone project and a Python Django Project
 - 🌱 Interested In: AI/ML
   
-- 👯 I’m looking to collaborate on: Any Project.
+- 👯 I’m looking to collaborate on: Any type of Project.
 - 💬 My-Tools: C || Python(Django, Flask) || JavaScript || React || Linux || MySQL || HTML/CSS || Git/GitHub || Puppet || Shell || DevOps.
 - - 😄 Pronouns: Masino, Nigga, Yoo, Dawg
 - ⚡ Fun fact: Swimming, Fishing, Rapping, Acrobatic exercise(Summersaulting), etc
