@@ -2,7 +2,7 @@
 ### NAME:   Johnson Obinna Ugwuanyi (Masino)
 ### ABOUT:  A fullstack software engineer working mainly with Python and it's frameworks
 ### TALKS ABOUT: "PROBLEM SOLVING"
-- 🔭 I’m currently working on: Air BNB Clone project and a Python Django Project
+- 🔭 I’m currently working on: Air BNB Clone and a Python Django Projects
 - 🌱 Interested In: AI/ML
   
 - 👯 I’m looking to collaborate on: Any type of Project.
