@@ -7,7 +7,7 @@
   
 - 👯 I’m looking to collaborate on: Any type of technical Project at all.
 - 💬 My-Tools: C || Python(Django, Flask) || JavaScript || React || Linux || MySQL || HTML/CSS || Git/GitHub || Puppet || Shell || DevOps.
-- - 😄 Pronouns: Masino, Nigga, Yoo, Dawg
+- - 😄 Pronouns: Masino, Yoo, Dawg
 - ⚡ Fun fact: Swimming, Fishing, Rapping, Acrobatic exercise(Summersaulting), etc
 - 📫 How to reach me:
 ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/cf2b0525-b1a6-4f1d-a6c8-03802ced9e1d)johnsonmasino@gmail.com
