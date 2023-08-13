@@ -2,7 +2,7 @@
 ### NAME:   Johnson Obinna Ugwuanyi (Masino)
 ### ABOUT:  A fullstack software engineer working mainly with Python and the frameworks.
 ### TALKS ABOUT: "PROBLEM SOLVING"
-- 🔭 I’m currently working on: Python Django Projects
+- 🔭 I’m currently working on: E Commerce Website.
 - 🌱 Interested In: AI/ML
   
 - 👯 I’m looking to collaborate on: Any type of technical Project at all.
