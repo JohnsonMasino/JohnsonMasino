@@ -1,3 +1,6 @@
+![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/dcd7c5d4-3af8-4dcb-b8dc-3a148a98bc31)
+
+
 ### Hi there... 👋   ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/9a02b62d-0074-46a5-879d-fbb80ecd9fa0)
 ### NAME:   Johnson Obinna Ugwuanyi (Masino)
 ### ABOUT:  A fullstack software engineer working mainly with Python and the frameworks.
