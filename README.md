@@ -5,7 +5,7 @@
 ### ABOUT:  A fullstack software engineer.
 ### TALKS ABOUT: "SOLVING PROBLEMS"
 - 🔭 I’m currently working on: E Commerce Website.
-- 🌱 Interested In: AI/ML
+- 🌱 Interested In: AI/ML.
   
 - 👯 I’m looking to collaborate on: Any type of technical Project at all.
 - 💬 My-Tools: C || Python(Django, Flask) || JavaScript || React || Linux || MySQL || HTML/CSS || Git/GitHub || Puppet || Shell || DevOps.
