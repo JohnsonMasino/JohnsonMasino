@@ -2,7 +2,7 @@
 ### NAME:   Johnson Obinna Ugwuanyi (Masino).
 ### ABOUT:  A fullstack software developer.
 ### TALKS ABOUT: "PROBLEM SOLVING"
-- 🔭 I’m currently working on: E Commerce Website.
+- 🔭 I’m currently working on: A Social Web App.
 - 🌱 Interested In: AI/ML.
   
 - 👯 I’m looking to collaborate on: Any type of technical Project at all.
