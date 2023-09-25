@@ -4,7 +4,7 @@
 A fullstack software developer.
 ## Focus
 Solving Problems
-## More About
+## More
 - 🔭 I’m currently working on: A Social Web App.
 - 🌱 Interested In: AI/ML.
   
