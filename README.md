@@ -12,8 +12,7 @@ Solving Problems
 - 💬 My-Tools: C || Python(Django, Flask) || JavaScript || React || Linux || MySQL || HTML/CSS || Git/GitHub || Puppet || Shell || DevOps.
 - - 😄 Pronouns: Masino, Yoo, Dawg
 - ⚡ Fun fact: Swimming, Fishing, Rapping, Acrobatic exercise(Summersaulting), etc
-- 📫 How to reach me: MAIL:johnsonmasino@gmail.com
-## TWT
-https://twitter.com/masino_oficial
-## LinkIn
-https://www.linkedin.com/in/masino100/
+## Contact
+MAIL:johnsonmasino@gmail.com
+TWT: https://twitter.com/masino_oficial
+LinkIn: https://www.linkedin.com/in/masino100/
