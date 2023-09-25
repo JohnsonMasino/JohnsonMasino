@@ -1,7 +1,10 @@
-### Hi there... 👋   ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/9a02b62d-0074-46a5-879d-fbb80ecd9fa0)
-### NAME:   Johnson Obinna Ugwuanyi (Masino).
-### ABOUT:  A fullstack software developer.
-### TALKS ABOUT: "PROBLEM SOLVING"
+
+# Johnson Obinna Ugwuanyi (Masino)   ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/9a02b62d-0074-46a5-879d-fbb80ecd9fa0)
+## ABOUT
+A fullstack software developer.
+## TALKS ABOUT
+Solving Problems
+
 - 🔭 I’m currently working on: A Social Web App.
 - 🌱 Interested In: AI/ML.
   
@@ -10,5 +13,7 @@
 - - 😄 Pronouns: Masino, Yoo, Dawg
 - ⚡ Fun fact: Swimming, Fishing, Rapping, Acrobatic exercise(Summersaulting), etc
 - 📫 How to reach me: MAIL:johnsonmasino@gmail.com
-### TWT: https://twitter.com/masino_oficial
-### LinkIn: https://www.linkedin.com/in/masino100/
+## TWT
+https://twitter.com/masino_oficial
+## LinkIn
+https://www.linkedin.com/in/masino100/
