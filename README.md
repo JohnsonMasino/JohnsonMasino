@@ -1,4 +1,4 @@
-# Johnson Obinna Ugwuanyi (Masino)   ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/9a02b62d-0074-46a5-879d-fbb80ecd9fa0)
+# Johnson Masino   ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/9a02b62d-0074-46a5-879d-fbb80ecd9fa0)
 ## About
 A fullstack software developer.
 ## Focus
