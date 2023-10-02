@@ -9,7 +9,7 @@ Solving Problems
   
 - 👯 I’m looking to collaborate on: Any type of technical Project at all.
 - 💬 My-Tools: C || Python(Django, Flask) || JavaScript || React || Linux || MySQL || HTML/CSS || Git/GitHub || Puppet || Shell || DevOps.
-- - 😄 Pronouns: Masino, Yoo, Dawg
+- 😄 Pronouns: Masino, Yoo, Dawg
 - ⚡ Fun fact: Swimming, Fishing, Rapping, Acrobatic exercise(Summersaulting), etc
 ## Contact
 Mail: johnsonmasino@gmail.com <br>
