@@ -1,7 +1,7 @@
 # Johnson Masino   ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/9a02b62d-0074-46a5-879d-fbb80ecd9fa0)
 ## About
 A fullstack software developer.
-## Focus
+## Focus/Interests
 Solving Problems
 ## More
 - 🔭 I’m currently working on: A Social Web App || Open Source || e comerce web app
