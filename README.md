@@ -4,7 +4,7 @@ A fullstack software developer.
 ## Focus/Interests
 Solving Problems
 ## More
-- 🔭 I’m currently working on: A Social Web App || Open Source || e comerce web app
+- 🔭 Currently working on: A Social Web App || Open Source || e comerce web app
 - 🌱 Interested In: AI/ML.
   
 - 👯 I’m looking to collaborate on: Any type of technical Project at all.
