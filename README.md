@@ -1,7 +1,7 @@
 # Johnson Masino   ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/078f5896-2d62-49ba-95cc-4e8dcc2fb700)
 
 ## About
-A fullstack software developer.
+A Fullstack Software Developer.
 ## Focus/Interests
 Solving Problems
 ## More
