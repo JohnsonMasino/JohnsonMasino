@@ -2,8 +2,8 @@
 
 ## About
 A Fullstack Software Developer.
-## Focus/Interests
-Solving Problems
+## Focus And Interests
+Problem Solving.
 ## More
 - 🔭 Currently working on: A Social Web App || Open Source || e comerce web app
 - 🌱 Interested In: AI/ML.
