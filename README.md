@@ -2,10 +2,9 @@
 # Johnson Ugwuanyi (Masino)
 
 ## About
-### A Fullstack Software Engineer.
-### Talks about *Problem Solving*
+A Fullstack Software Engineer.
 ## Focus And Interests
-Problem Solving.
+***Problem Solving.***
 ## More
 - 🔭 Currently working on: A Social Web App || Open Source || e comerce web app
 - 🌱 Interested In: AI/ML.
