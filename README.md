@@ -1,4 +1,5 @@
-# Johnson Ugwuanyi (Masino)   ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/078f5896-2d62-49ba-95cc-4e8dcc2fb700)
+# Johnson Ugwuanyi (Masino)  ![Uploading image.png…]()
+
 
 ## About
 A Fullstack Software Engineer.
