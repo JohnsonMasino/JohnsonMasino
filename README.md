@@ -2,7 +2,7 @@
 # Johnson Ugwuanyi (Masino)
 
 ## About
-A Fullstack Software Engineer.
+A Fullstack Software Developer.
 ## Focus And Interests
 ***Problem Solving.***
 ## More
