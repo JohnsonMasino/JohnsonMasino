@@ -1,4 +1,5 @@
-![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/15e00877-18ec-48c8-937d-730c18f16aea)
+![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/d4ac606b-f74a-4440-af03-ffc08ea81691)
+
 # Johnson Ugwuanyi (Masino)
 
 ## About
