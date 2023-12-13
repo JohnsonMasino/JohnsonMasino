@@ -1,8 +1,6 @@
 ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/d4ac606b-f74a-4440-af03-ffc08ea81691)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnsonMasino)](https://github.com/JohnsonMasino/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnsonMasino&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnsonMasino&show_icons=true&theme=tokyonight)
 
 # Johnson Masino
 
