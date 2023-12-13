@@ -1,6 +1,6 @@
 ![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/d4ac606b-f74a-4440-af03-ffc08ea81691)
 
-![](https://raw.githubusercontent.com/JohnsonMasino/github-profile-summary-cards-example/master/profile-summary-card-output/buefy/0-profile-details.svg)
+![](https://raw.githubusercontent.com/JohnsonMasino/github-profile-summary-cards-example/master/profile-summary-card-output/buefy)
 
 # Johnson Masino
 
