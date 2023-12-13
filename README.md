@@ -1,4 +1,3 @@
-![image](https://github.com/JohnsonMasino/JohnsonMasino/assets/117756339/d4ac606b-f74a-4440-af03-ffc08ea81691)
 # Johnson Masino
 
 ## About
