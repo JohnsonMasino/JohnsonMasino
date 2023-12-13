@@ -1,9 +1,7 @@
-<p align="left"> <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="johnsonmasino" /> </p>
+<h3 align="left"> <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="johnsonmasino" /> </h3>
 
 <h1 align="center">Hi 👋, I'm Johnson Masino</h1>
 <h2 align="center">A passionate fullstack software developer.</h3>
-
-https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif
 
 - 🔭 I’m currently working on **SMSir**
 
