@@ -1,4 +1,4 @@
-<h3 align="left"> <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="johnsonmasino" /> </h3>
+<h5 align="left"> <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="johnsonmasino" /> </h5>
 
 <h1 align="center">Hi 👋, I'm Johnson Masino</h1>
 <h2 align="center">A passionate fullstack software developer.</h3>
