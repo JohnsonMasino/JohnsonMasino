@@ -35,16 +35,15 @@
 
 <p align="left"> <a href="https://twitter.com/masino_oficial" target="blank"><img src="https://img.shields.io/twitter/follow/masino_oficial?logo=twitter&style=for-the-badge" alt="masino_oficial" /></a> </p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/masino_oficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masino_oficial" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/masino100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnsonmasino" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22952483/johnson-masino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="johnsonmasino" height="30" width="40" /></a>
-<a href="https://instagram.com/masinooficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masinooficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCoaLjAz28KBaqjN5jz1h9JQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="johnson masino" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Masino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="johnsonmasino" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/johnsonmasino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="johnsonmasino" height="30" width="40" /></a>
+<a href="https://twitter.com/masino_oficial" target="blank" title="Johnson's Twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masino_oficial" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/masino100" target="blank" title="Johnson's LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnsonmasino" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22952483/johnson-masino" target="blank" title="Johnson's stackoverflow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="johnsonmasino" height="30" width="40" /></a>
+<a href="https://instagram.com/masinooficial" target="blank" title="Johnson's Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masinooficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCoaLjAz28KBaqjN5jz1h9JQ" target="blank" title="Johnson's YouTube"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="johnson masino" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Masino" target="blank" title="Johnson's Leetcode"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="johnsonmasino" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/johnsonmasino" target="blank" title="Johnson's Hackerrank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="johnsonmasino" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
