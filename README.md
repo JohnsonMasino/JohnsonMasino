@@ -1,13 +1,13 @@
 <h5 align="left"> <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="johnsonmasino" /> </h5>
 
 <h1 align="center">Hi 👋, I'm Johnson Masino</h1>
-<h2 align="center">A passionate fullstack software developer.</h3>
+<h2 align="center">A passionate fullstack software developer focused on contributing to open sources. Some of them are pinned to my profile(pinned repository section). Open to paid backend roles. Contact me for open sources too :)</h3>
 
-- 🔭 I’m currently working on **SMSir**
+- 🔭 I’m currently working on **SMSir and Open Sources**
 
 - 🌱 I’m currently learning **AI, ML**
 
-- 👯 I’m looking to collaborate on **Open Sources**
+- 👯 I’m looking to collaborate on **Open Source and Personal Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnsonMasino](https://github.com/JohnsonMasino)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **johnsonmasino@gmail.com**
 
-- ⚡ Fun fact **I am most friendly person you will ever be friends with.**
+- ⚡ Fun fact **I am the most friendly person you will ever be friends with :)**
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnsonMasino&show_icons=true&theme=tokyonight)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnsonMasino&layout=pie)](https://github.com/JohnsonMasino/github-readme-stats)
