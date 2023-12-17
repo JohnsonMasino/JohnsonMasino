@@ -1,7 +1,7 @@
 <h5 align="left"> <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="johnsonmasino" /> </h5>
 
 <h1 align="center">Hi 👋, I'm Johnson Masino</h1>
-<h2 align="center">A passionate fullstack software developer focused on contributing to open sources. Some of them are pinned to my profile(pinned repository section). Open to paid backend roles. Contact me for open sources too :)</h3>
+<h2 align="center">A passionate fullstack software developer focused on contributing to open sources. Some of them are pinned to my profile(pinned repository section). Open to backend roles. Contact me for project collaboration :)</h3>
 
 # Open Source Contributions:
 0. https://github.com/GrahamTheDevRel/a11y-monsters
