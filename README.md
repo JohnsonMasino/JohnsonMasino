@@ -6,6 +6,7 @@
 # Open Source Contributions:
 0. https://github.com/GrahamTheDevRel/a11y-monsters
 1. https://github.com/themrsgod/Vimojo
+2. https://github.com/MichealCodez/awesome-project-ideas
 
 # Side Projects:
 0. https://github.com/JohnsonMasino/LetsTalk
