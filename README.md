@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source and Personal Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JohnsonMasino](https://github.com/JohnsonMasino)
+- 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/JohnsonMasino)
 
 - 💬 Ask me about **Django, Python, Git/GitHub, MySQL**
 
