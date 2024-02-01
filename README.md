@@ -12,7 +12,7 @@
 0. https://github.com/JohnsonMasino/LetsTalk
 1. https://github.com/JohnsonMasino/AirBnB_clone_v4
 
-- 🔭 I’m currently working on **SMSir and Open Sources**
+- 🔭 I’m currently working on **Erochi and Open Sources**
 
 - 🌱 I’m currently learning **AI, ML**
 
