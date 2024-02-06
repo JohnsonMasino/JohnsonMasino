@@ -14,8 +14,6 @@
 
 - 🔭 I’m currently working on **Erochi and Open Sources**
 
-- 🌱 I’m currently learning **AI, ML**
-
 - 👯 I’m looking to collaborate on **Open Source and Personal Projects**
 
 - 👨‍💻 All of my projects are available at [My GitHub Page](https://github.com/JohnsonMasino)
