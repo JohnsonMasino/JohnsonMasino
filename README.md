@@ -9,8 +9,6 @@
 2. https://github.com/MichealCodez/awesome-project-ideas
 
 # Side Projects:
-0. https://github.com/JohnsonMasino/LetsTalk
-1. https://github.com/JohnsonMasino/AirBnB_clone_v4
 
 - 🔭 I’m currently working on **Open Sources**
 
