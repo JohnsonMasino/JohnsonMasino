@@ -10,7 +10,7 @@
 
 # Side Projects:
 
-- 🔭 I’m currently working on **Open Sources**
+- 🔭 I’m currently working on **Open Sources, and many other projects**
 
 - 👯 I’m looking to collaborate on **Open Source and Personal Projects**
 
