@@ -32,7 +32,7 @@
 
 <p align="left"> <a href="https://twitter.com/masino_oficial" target="blank"><img src="https://img.shields.io/twitter/follow/masino_oficial?logo=twitter&style=for-the-badge" alt="masino_oficial" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/masino_oficial" target="blank" title="Johnson's Twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masino_oficial" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/masino100" target="blank" title="Johnson's LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnsonmasino" height="30" width="40" /></a>
