@@ -10,7 +10,7 @@
 
 # Side Projects:
 
-- 🔭 I’m currently working on **Open Sources, and many other projects, companny roles**
+- 🔭 I’m currently working as an intern at **Talents2Germany**
 
 - 👯 I’m looking to collaborate on **Open Source and Personal Projects**
 
